@@ -4,21 +4,28 @@
 ## Background
 This project is based on the friends annotations dataset, which contains half-episodes that are annotated.
 The goal of these annotations are to give context about the visual stimuli (FRIENDS half-episodes) that were shown
-to participants in a fmri. This dataset is also one of the dataset available for the ALgonauts challenge, where participants use the stimuli data and the brain response data to create
-a brain encoding model. Having good robust annotations and analyses is a good basis to produce good encoding alignement.   
+to participants in a fmri. This dataset is also one of the dataset available for the Algonauts challenge, where participants use the stimuli data and the brain response data to create
+a brain encoding model. Having good robust annotations and analyses on the stimuli is a good basis to produce good encoding alignement.   
 
 ## Main goal
 The main goal of this brainhack project is to do basic statistical analyses to the friends annotations data and to present
-the results in the form of visualisations. 
+the results in the form of visualisations. These analyses will provide better context and information about the visual stimuli on different levels of analyses (season, episodes, scenes, segments, frames)
 
 ## Main analyses 
 Plot different relations between scenes, segments, duration, frames, number of local maximas and more!
 
+Here's an example of a plot contained in this dataset: 
+
+![download](https://github.com/user-attachments/assets/d19ff0c2-9cc2-42e7-82ae-ff1a9a57dd6d)
+
+
 ## Data used
 Theses analyses are made on the friends annotations dataset, it is available as a submodule in this repo.
 
-This dataset contains annotations made for season one to six for the number of scene cuts, number of local maxima (saliency), segments
-annotations and the transcript.
+[https://github.com/courtois-neuromod/friends_annotations.git]
+
+This dataset contains annotations made for season one to six of FRIENDS and it contains datasets with the number of scene cuts (PYScene), number of local maxima (saliency with deepgazemr), segments
+annotations (manual annotations) and the transcript (Speech2text).
 ## End product
 The end product will be a website containing a description of the project and the plots.
 
