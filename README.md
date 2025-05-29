@@ -24,6 +24,7 @@ The end product will be a website containing a description of the project and th
 
 ## Tools
 The tools I will use are 
+
    Jupyter notebooks to organize my analysis and create some interactive plots.
    
    python,
