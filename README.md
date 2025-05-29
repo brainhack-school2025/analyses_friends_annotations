@@ -53,7 +53,7 @@ Here's an example of a plot contained in this dataset:
 
 ![download](https://github.com/user-attachments/assets/d19ff0c2-9cc2-42e7-82ae-ff1a9a57dd6d)
 
-Describing the dataset in terms of length of scenes and segments and average number of maxima within scenes in episodes can guide further analysis on the transcripts and emotions by analysing the relation bewtween these modalities. 
+Describing the dataset in terms of length of scenes and segments and average number of maxima within scenes in episodes can guide further analysis on the transcripts and emotions by analysing the relation between these modalities. 
 
 ## Tools
 The tools I will use are 
