@@ -4,7 +4,7 @@
 ## Background
 This project is based on the friends annotations dataset, which contains half-episodes that are annotated.
 The goal of these annotations are to give context about the visual stimuli (FRIENDS half-episodes) that were shown
-to participants in a fmri. This dataset is also one of the dataset available for the Algonauts challenge, where participants use the stimuli data and the brain response data to create brain encoding models.
+to participants in a fmri machine. This dataset is also one of the dataset available for the Algonauts challenge, where participants use the stimuli data and the brain response data to create brain encoding models.
 
 Here are some questions that encoding models attempt to address that I took from the MAIN educational website :
 
@@ -23,7 +23,7 @@ Having good robust annotations and analyses on the stimuli acts as a good base t
 ## Main goal
 The main goal of this brainhack project is to do basic statistical analyses to the friends annotations data and to present
 the results in the form of visualisations. These analyses will provide better context and information about the visual stimuli on different levels of analyses (season, episodes, scenes, segments, frames). Ultimately, to understand what happens when humans view multi-modal stimuli like a video, we need 
-descriptions of each stimuli type (visual, transcript, narrative, emotions etc. ). With the available annotations in the annotations dataset, that are mainly visual, this project will try to be a good foundation for future inquiry about the other types stimuli modalities. Doing cross-modal correlations between the emotions and visuals could be one of the many possible future analyses to better understand video media, tv, cinema and our brains.
+descriptions of each stimuli type (visual, transcript, narrative, emotions etc. ). With the available annotations in the annotations dataset, that are mainly visual, this project will try to be a good foundational descripition of the visual data for future inquiry about the other types stimuli modalities. With this data description produced, doing cross-modal correlations between the emotions and visuals could be one of the many possible future analyses to better understand video media, tv, cinema and our brains.
 
 ## Learning goals:
 I plan to use this project to learn how to group data into panda dataframes and use visualisation tools to plot the data included in clean datasets. I will also try to learn how to write efficient code using functions. Building a website presenting my final analyses is also one of my learning goals.
@@ -52,6 +52,8 @@ Types of plots: barplots for frequencies, barplots for proportions and hexbins f
 Here's an example of a plot contained in this dataset: 
 
 ![download](https://github.com/user-attachments/assets/d19ff0c2-9cc2-42e7-82ae-ff1a9a57dd6d)
+
+Describing the dataset in terms of length of scenes and segments and average number of maxima within scenes in episodes can guide further analysis on the transcripts and emotions by analysing the relation bewtween these modalities. 
 
 ## Tools
 The tools I will use are 
