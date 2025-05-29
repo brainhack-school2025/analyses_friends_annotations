@@ -24,10 +24,13 @@ The end product will be a website containing a description of the project and th
 
 ## Tools
 The tools I will use are 
-Jupyter notebooks to organize my analysis and create some interactive plots.
-python,
-git and github to version control and share my analyses
-mystmd to create my website to promote this dataset and present it in a neat way
+   Jupyter notebooks to organize my analysis and create some interactive plots.
+   
+   python,
+
+   git and github to version control and share my analyses
+   
+   mystmd to create my website to promote this dataset and present it in a neat way
 
 ## Python libraries
 Pandas, matplotlib, seaborn, numpy.
