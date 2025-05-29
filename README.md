@@ -33,8 +33,16 @@ Theses analyses are made on the friends annotations dataset, it is available as 
 
 [https://github.com/courtois-neuromod/friends_annotations.git]
 
-This dataset contains annotations made for season one to six of FRIENDS and it contains datasets with the number of scene cuts (PYScene), number of local maxima and location of maximum in pixel space (saliency with deepgazemr), segments
-annotations (manual annotations) and the transcript (Speech2text).
+This dataset contains annotations made for season one to six of FRIENDS and it contains for every half-episode:
+
+Number of scene cuts (PYScene): Ai model that detects scene cuts.
+
+Number of local maxima and location of maximum in pixel space (saliency with deepgazemr):  model trained to predict the likelihood of the viewer's gaze position for each movie frame.
+
+Segments annotations (manual annotations): Segments where annotated by a person. It gives detail about onset and offset of each segments depending on their 
+modalities (location change, character entry etc.)
+
+Transcript (Speech2text): AssemblyAI speech-to-text transcription. Produces time-stamped movie transcripts.
 
 ## Main analyses 
 Plot different relations between scenes, segments, duration, frames, number of local maximas and more!
