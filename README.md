@@ -5,7 +5,7 @@
 This project is based on the friends annotations dataset, which contains half-episodes that are annotated.
 The goal of these annotations are to give context about the visual stimuli (FRIENDS half-episodes) that were shown
 to participants in a fmri. 
-##Main goal
+## Main goal
 The main goal of this brainhack project is to do basic statistical analyses to the friends annotations data and to present
 the results in the form of visualisations.
 
