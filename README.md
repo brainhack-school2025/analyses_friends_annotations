@@ -4,10 +4,12 @@
 ## Background
 This project is based on the friends annotations dataset, which contains half-episodes that are annotated.
 The goal of these annotations are to give context about the visual stimuli (FRIENDS half-episodes) that were shown
-to participants in a fmri. 
+to participants in a fmri. This dataset is also one of the dataset available for the ALgonauts challenge, where participants use the stimuli data and the brain response data to create
+a brain encoding model. Having good robust annotations and analyses is a good basis to produce good encoding alignement.   
+
 ## Main goal
 The main goal of this brainhack project is to do basic statistical analyses to the friends annotations data and to present
-the results in the form of visualisations.
+the results in the form of visualisations. 
 
 ## Main analyses 
 Plot different relations between scenes, segments, duration, frames, number of local maximas and more!
