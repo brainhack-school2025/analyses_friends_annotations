@@ -20,6 +20,8 @@ annotations and the transcript.
 ## End product
 The end product will be a website containing a description of the project and the plots.
 
+![alt text](https://i.pinimg.com/736x/fb/d5/3a/fbd53a0dc2a88bcad9d25986cb42964c.jpg)
+
 ## Tools
 The tools I will use are Jupyter notebooks, python, git, github and mystmd
 
