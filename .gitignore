@@ -1,3 +1,5 @@
 venv/
 output/*
 !output/final*.png
+_build/
+friends/
