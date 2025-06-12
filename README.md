@@ -79,6 +79,10 @@ The end product will be a website containing a description of the project and th
 ## Deliverables
 Notebooks on github, website
 
+## link to slides
+
+[https://docs.google.com/presentation/d/1S9DQDhZ0r_wYI1q_YJt4-7-qtCbP7z6jyRRymxfHAGM/edit?usp=sharing]
+
 
 <a href="https://github.com/cleode5a7">
    <img src="https://avatars.githubusercontent.com/u/210581839?v=4?s=100" width="100px;" alt=""/>
