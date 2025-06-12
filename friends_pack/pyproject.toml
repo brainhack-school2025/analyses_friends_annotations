@@ -1,0 +1,14 @@
+[project]
+name = "friends_pack"
+version = "0.1.0"
+description = "functions for loading and plotting with friends annotations"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+
+[project.scripts]
+test-package = "test_package:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
