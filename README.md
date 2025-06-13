@@ -26,7 +26,7 @@ the results in the form of visualisations. These analyses will provide better co
 descriptions of each stimuli type (visual, transcript, narrative, emotions etc. ). With the available annotations in the annotations dataset, that are mainly visual, this project will try to be a good foundational descripition of the visual data for future inquiry about the other types stimuli modalities. With this data description produced, doing cross-modal correlations between the emotions and visuals could be one of the many possible future analyses to better understand video media, tv, cinema and our brains.
 
 ## Learning goals:
-I plan to use this project to learn how to group data into panda dataframes and use visualisation tools to plot the data included in clean datasets. I will also try to learn how to write efficient code using functions. Building a website presenting my final analyses is also one of my learning goals.
+I plan to use this project to learn how to group data into panda dataframes and use visualisation tools to plot the data included in clean datasets. I will also try to learn how to write efficient code using functions ad package. Building a website presenting my final analyses is also one of my learning goals.
 
 ## Data used
 Theses analyses are made on the friends annotations dataset, it is available as a submodule in this repo.
@@ -47,7 +47,7 @@ Transcript (Speech2text): AssemblyAI speech-to-text transcription. Produces time
 ## Main analyses 
 Plot different relations between scenes, segments, duration, frames, number of local maximas and more!
 
-Types of plots: barplots for frequencies, barplots for proportions and hexbins for density visualisations
+Types of plots: barplots for frequencies, barplots for proportions, hexbins and kde for density visualisations
 
 Here's an example of a plot contained in this dataset: 
 
@@ -69,15 +69,17 @@ The tools I will use are
 ## Python libraries
 Pandas: This tool will be useful to concatenate data about different half-episodes togheter
 
-matplotlib, seaborn and numpy: These tools are useful to plot barplots, hexbin plots and distributions
+matplotlib, seaborn, numpy and plotly: These tools are useful to plot barplots, hexbin plots and distributions
 
 ## End product
 The end product will be a website containing a description of the project and the plots.
 
 ![alt text](https://i.pinimg.com/736x/fb/d5/3a/fbd53a0dc2a88bcad9d25986cb42964c.jpg)
 
+
 ## Deliverables
-Notebooks on github, website
+Notebooks available on this github repo, website [https://cleode5a7.github.io/friends_compendium/group-manual-seg-copy1]
+friends pack package available on this repo.
 
 ## link to slides
 
