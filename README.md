@@ -22,11 +22,11 @@ Having good robust annotations and analyses on the stimuli acts as a good base t
 
 ## Main goal
 The main goal of this brainhack project is to do basic statistical analyses to the friends annotations data and to present
-the results in the form of visualisations. These analyses will provide better context and information about the visual stimuli on different levels of analyses (season, episodes, scenes, segments, frames). Ultimately, to understand what happens when humans view multi-modal stimuli like a video, we need 
+the results in the form of visualisations. These analyses will provide better context and information about the visual stimuli on different levels of analyses (season, episodes, scenes, segments). Ultimately, to understand what happens when humans view multi-modal stimuli like a video, we need 
 descriptions of each stimuli type (visual, transcript, narrative, emotions etc. ). With the available annotations in the annotations dataset, that are mainly visual, this project will try to be a good foundational descripition of the visual data for future inquiry about the other types stimuli modalities. With this data description produced, doing cross-modal correlations between the emotions and visuals could be one of the many possible future analyses to better understand video media, tv, cinema and our brains.
 
 ## Learning goals:
-I plan to use this project to learn how to group data into panda dataframes and use visualisation tools to plot the data included in clean datasets. I will also try to learn how to write efficient code using functions ad package. Building a website presenting my final analyses is also one of my learning goals.
+I plan to use this project to learn how to group data into panda dataframes and use visualisation tools to plot the data included in clean datasets. I will also try to learn how to write efficient code using functions and make a package. Building a website for my final analyses is also one of my learning goals.
 
 ## Data used
 Theses analyses are made on the friends annotations dataset, it is available as a submodule in this repo.
@@ -72,13 +72,13 @@ Pandas: This tool will be useful to concatenate data about different half-episod
 matplotlib, seaborn, numpy and plotly: These tools are useful to plot barplots, hexbin plots and distributions
 
 ## End product
-The end product will be a website containing a description of the project and the plots.
+The end product is a website containing a description of the project and the plots.
 
 ![alt text](https://i.pinimg.com/736x/fb/d5/3a/fbd53a0dc2a88bcad9d25986cb42964c.jpg)
 
 
 ## Deliverables
-Notebooks available on this github repo, website [https://cleode5a7.github.io/friends_compendium/group-manual-seg-copy1]
+Notebooks available on this github repo, github repo for my website [https://github.com/cleode5a7/friends_compendium] website [https://cleode5a7.github.io/friends_compendium/group-manual-seg-copy1]
 friends pack package available on this repo.
 
 ## link to slides
